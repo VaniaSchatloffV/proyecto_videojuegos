@@ -1,0 +1,4 @@
+repository "proyecto_videojuegos@vanianias@cloud"
+  path "/"
+    br "/main"
+    co "/main"
